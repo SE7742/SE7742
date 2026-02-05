@@ -24,7 +24,7 @@
 
 ### 🔭 Aktif Projelerim
 - [PC Güvenlik Sistemi](https://github.com/SE7742/PC_guvenlik_Sistemi) - AI destekli güvenlik çözümü
-- [Kombin App](https://github.com/SE7742/Kombin_app) - AI destekli kıyafet kombinleme ve sanal deneme uygulaması
+- [Kombin App] (https://github.com/SE7742/Kombin_app) - AI destekli kıyafet kombinleme ve sanal deneme uygulaması
 
 ### 🌱 Öğreniyorum
 - AWS Cloud Architecture & Serverless
