@@ -17,7 +17,7 @@
 > Tutkulu bir Full-Stack Developer'ım. Mobil uygulama geliştirme ve modern teknolojilere olan ilgimle, kullanıcı deneyimini ön planda tutan projeler üretmeye odaklanıyorum.
 
 **📍 Konum:** Turkey 🇹🇷  
-**💼 Pozisyon:** Full-Stack Developer (Yeni Mezun)  
+**💼 Pozisyon:** Full-Stack Developer  
 **🎓 Durum:** Aktif olarak kariyer fırsatları arıyorum  
 **🎯 Odak:** Mobile Development, Cloud Architecture, AI Integration  
 **🚀 Şu An:** React Native ile kişisel projeler geliştiriyorum ve portfolio'mu güçlendiriyorum
