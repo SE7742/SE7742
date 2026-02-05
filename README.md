@@ -87,7 +87,7 @@
 
 ## 💼 Öne Çıkan Projeler
 
-### 🔐 [PC Güvenlik Sistemi](https://github.com/SE7742/PC_guvenlik_Sistemi)
+### 🔐 [PC Güvenlik Sistemi](https://github.com/SE7742/Security-sistem-for-pc)
 AI destekli güvenlik izleme ve kontrol sistemi
 
 <!-- Yeni projelerinizi buraya ekleyebilirsiniz -->
