@@ -23,8 +23,13 @@
 **🚀 Şu An:** React Native ile kişisel projeler geliştiriyorum ve portfolio'mu güçlendiriyorum
 
 ### 🔭 Aktif Projelerim
-- [PC Güvenlik Sistemi](https://github.com/SE7742/PC_guvenlik_Sistemi) - AI destekli güvenlik çözümü
-- [Kombin App] (https://github.com/SE7742/Kombin_app) - AI destekli kıyafet kombinleme ve sanal deneme uygulaması
+## 💼 Öne Çıkan Projeler
+
+### 🔐 [PC Güvenlik Sistemi](https://github.com/SE7742/PC_guvenlik_Sistemi)
+AI destekli güvenlik izleme ve kontrol sistemi
+
+### 👕 [Kombin App](https://github.com/SE7742/Kombin_app)
+AI destekli kıyafet kombinleme ve sanal deneme uygulaması
 
 ### 🌱 Öğreniyorum
 - AWS Cloud Architecture & Serverless
