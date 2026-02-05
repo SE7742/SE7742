@@ -14,7 +14,7 @@
 
 ## 🎯 Hakkımda
 
-> Yeni mezun, tutkulu bir Full-Stack Developer'ım. Mobil uygulama geliştirme ve modern teknolojilere olan ilgimle, kullanıcı deneyimini ön planda tutan projeler üretmeye odaklanıyorum.
+> Tutkulu bir Full-Stack Developer'ım. Mobil uygulama geliştirme ve modern teknolojilere olan ilgimle, kullanıcı deneyimini ön planda tutan projeler üretmeye odaklanıyorum.
 
 **📍 Konum:** Turkey 🇹🇷  
 **💼 Pozisyon:** Full-Stack Developer (Yeni Mezun)  
