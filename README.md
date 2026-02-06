@@ -142,6 +142,7 @@ AI destekli kıyafet kombinleme ve sanal deneme uygulaması
 
 | Proje | Aciklama | Tarih | Link |
 |---|---|---:|---|
+| **n8n_readme** | n8n otomasyonu ile GitHub profil README dosyasımı otomatik güncelleyen bir sistem. | 2026-02-06 | [Repo](https://github.com/SE7742/n8n_readme) |
 | **Kombin_app** | Kıyafetler yükleyip kombin yapabileceğimiz ve AI ile sanal denemeler yapabileceğimiz bir mobil uygulama | 2026-02-05 | [Repo](https://github.com/SE7742/Kombin_app) |
 | **Security-sistem-for-pc** | Yüz tanıma ile PC güvenlik sistemi | 2026-02-05 | [Repo](https://github.com/SE7742/Security-sistem-for-pc) |
 
