@@ -90,14 +90,6 @@ AI destekli kıyafet kombinleme ve sanal deneme uygulaması
 
 ---
 
-## 💼 Öne Çıkan Projeler
-
-### 🔐 [PC Güvenlik Sistemi](https://github.com/SE7742/Security-sistem-for-pc)
-AI destekli güvenlik izleme ve kontrol sistemi
-
-### 👕 [Kombin App](https://github.com/SE7742/Kombin_app)
-AI destekli kıyafet kombinleme ve sanal deneme uygulaması
-
 ---
 
 ## 📈 2026 Hedeflerim
