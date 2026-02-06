@@ -145,3 +145,12 @@ AI destekli kıyafet kombinleme ve sanal deneme uygulaması
 <sub>Son güncelleme: Aralık 2025</sub>
 
 </div>
+
+<!-- AUTO-PROJECTS -->
+
+| Proje | Aciklama | Tarih | Link |
+|---|---|---:|---|
+| **Kombin_app** | Kıyafetler yükleyip kombin yapabileceğimiz ve AI ile sanal denemeler yapabileceğimiz bir mobil uygulama | 2026-02-05 | [Repo](https://github.com/SE7742/Kombin_app) |
+| **Security-sistem-for-pc** | Yüz tanıma ile PC güvenlik sistemi | 2026-02-05 | [Repo](https://github.com/SE7742/Security-sistem-for-pc) |
+
+<!-- END-AUTO-PROJECTS -->
