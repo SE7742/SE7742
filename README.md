@@ -180,6 +180,7 @@ Açık olduğum fırsatlar:
 
 | Proje | Aciklama | Tarih | Link |
 |---|---|---:|---|
+| **ApplyFlow** | Open-source n8n workflow template for a personal job search CRM | 2026-07-03 | [Repo](https://github.com/SE7742/ApplyFlow) |
 | **GazeLearn** | WebEyeTrack-oriented TypeScript layer for gaze calibration, Kalman filtering, fixation detection, and AOI analytics. | 2026-07-03 | [Repo](https://github.com/SE7742/GazeLearn) |
 | **District-Based-Service-Distribution-Analysis-System** | — | 2026-06-29 | [Repo](https://github.com/SE7742/District-Based-Service-Distribution-Analysis-System) |
 | **password_security** | Yerel çalışan bir şifre yöneticisi | 2026-04-11 | [Repo](https://github.com/SE7742/password_security) |
