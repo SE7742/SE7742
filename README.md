@@ -178,9 +178,16 @@ Açık olduğum fırsatlar:
 
 <!-- AUTO-PROJECTS -->
 
-| Proje | Açıklama | Son Güncelleme | Link |
+| Proje | Aciklama | Tarih | Link |
 |---|---|---:|---|
-| Bu alan n8n tarafından otomatik güncellenecek |  |  |  |
+| **GazeLearn** | WebEyeTrack-oriented TypeScript layer for gaze calibration, Kalman filtering, fixation detection, and AOI analytics. | 2026-07-03 | [Repo](https://github.com/SE7742/GazeLearn) |
+| **District-Based-Service-Distribution-Analysis-System** | — | 2026-06-29 | [Repo](https://github.com/SE7742/District-Based-Service-Distribution-Analysis-System) |
+| **password_security** | Yerel çalışan bir şifre yöneticisi | 2026-04-11 | [Repo](https://github.com/SE7742/password_security) |
+| **Labirent-oyunu** | Expo ile labirent oyunu hem web hemde mobil | 2026-02-07 | [Repo](https://github.com/SE7742/Labirent-oyunu) |
+| **Offline-notes-app** | Offline-first not uygulamasi. Notlar yerel SQLite veritabaninda saklanir, internet geldiginde n8n workflow'una otomatik senkronize edilir. n8n notlari isşeyerek etiket ve özet üretir. | 2026-02-06 | [Repo](https://github.com/SE7742/Offline-notes-app) |
+| **n8n_readme** | n8n otomasyonu ile GitHub profil README dosyasımı otomatik güncelleyen bir sistem. | 2026-02-06 | [Repo](https://github.com/SE7742/n8n_readme) |
+| **Kombin_app** | Kıyafetler yükleyip kombin yapabileceğimiz ve AI ile sanal denemeler yapabileceğimiz bir mobil uygulama | 2026-02-05 | [Repo](https://github.com/SE7742/Kombin_app) |
+| **Security-sistem-for-pc** | Yüz tanıma ile PC güvenlik sistemi | 2026-02-05 | [Repo](https://github.com/SE7742/Security-sistem-for-pc) |
 
 <!-- END-AUTO-PROJECTS -->
 
