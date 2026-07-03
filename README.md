@@ -90,6 +90,30 @@ Offline-first çalışan, SQLite ile veri saklayan ve internet geldiğinde n8n w
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 🗺️ [District-Based Service Distribution Analysis System](https://github.com/SE7742/District-Based-Service-Distribution-Analysis-System)
+
+İlçe bazlı hizmet dağılımını analiz etmeye yönelik geliştirdiğim veri analizi projesi. Bölgesel hizmet yoğunluğu, dağılım dengesi ve karar destek süreçleri üzerine odaklanıyor.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-2563EB?style=flat-square)
+![Decision Support](https://img.shields.io/badge/Decision_Support-16A34A?style=flat-square)
+
+</td>
+<td width="50%">
+
+### ⚙️ [n8n README Automation](https://github.com/SE7742/n8n_readme)
+
+GitHub profil README dosyasındaki proje listesini n8n workflow'u ile otomatik güncelleyen otomasyon sistemi.
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-F59E0B?style=flat-square)
+
+</td>
+</tr>
 </table>
 
 ---
@@ -125,8 +149,6 @@ Offline-first çalışan, SQLite ile veri saklayan ve internet geldiğinde n8n w
 
 ---
 
-
-
 ## 🎯 Kariyer Hedefim
 
 Junior seviyede yazılım geliştirme rollerinde yer alarak gerçek ürün geliştirme süreçlerinde deneyim kazanmak istiyorum. Özellikle React Native, full-stack web geliştirme, AI entegrasyonları ve otomasyon sistemleri üzerine çalışan ekiplerde katkı sağlamayı hedefliyorum.
@@ -156,37 +178,15 @@ Açık olduğum fırsatlar:
 
 <!-- AUTO-PROJECTS -->
 
-| Proje | Aciklama | Tarih | Link |
+| Proje | Açıklama | Son Güncelleme | Link |
 |---|---|---:|---|
-| **GazeLearn** | WebEyeTrack-oriented TypeScript layer for gaze calibration, Kalman filtering, fixation detection, and AOI analytics. | 2026-07-03 | [Repo](https://github.com/SE7742/GazeLearn) |
-| **District-Based-Service-Distribution-Analysis-System** | — | 2026-06-29 | [Repo](https://github.com/SE7742/District-Based-Service-Distribution-Analysis-System) |
-| **password_security** | Yerel çalışan bir şifre yöneticisi | 2026-04-11 | [Repo](https://github.com/SE7742/password_security) |
-| **Labirent-oyunu** | Expo ile labirent oyunu hem web hemde mobil | 2026-02-07 | [Repo](https://github.com/SE7742/Labirent-oyunu) |
-| **Offline-notes-app** | Offline-first not uygulamasi. Notlar yerel SQLite veritabaninda saklanir, internet geldiginde n8n workflow'una otomatik senkronize edilir. n8n notlari isşeyerek etiket ve özet üretir. | 2026-02-06 | [Repo](https://github.com/SE7742/Offline-notes-app) |
-| **n8n_readme** | n8n otomasyonu ile GitHub profil README dosyasımı otomatik güncelleyen bir sistem. | 2026-02-06 | [Repo](https://github.com/SE7742/n8n_readme) |
-| **Kombin_app** | Kıyafetler yükleyip kombin yapabileceğimiz ve AI ile sanal denemeler yapabileceğimiz bir mobil uygulama | 2026-02-05 | [Repo](https://github.com/SE7742/Kombin_app) |
-| **Security-sistem-for-pc** | Yüz tanıma ile PC güvenlik sistemi | 2026-02-05 | [Repo](https://github.com/SE7742/Security-sistem-for-pc) |
+| Bu alan n8n tarafından otomatik güncellenecek |  |  |  |
 
 <!-- END-AUTO-PROJECTS -->
 
 ---
 
 ## 📬 İletişim
-
-<div align="center">
-
-Yeni projeler, iş birlikleri ve junior developer fırsatları için iletişime açığım.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bağlantı_Kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sidar-doğan-798542383)
-[![GitHub](https://img.shields.io/badge/GitHub-Projelerim-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SE7742?tab=repositories)
-
-<sub>Bu profil README'si n8n otomasyonu ile güncel proje listesine bağlanmıştır.</sub>
-
-</div>
-
----
-
-## İletişim
 
 <div align="center">
 
