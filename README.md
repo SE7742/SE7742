@@ -125,16 +125,7 @@ Offline-first çalışan, SQLite ile veri saklayan ve internet geldiğinde n8n w
 
 ---
 
-## 📊 GitHub Özeti
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SE7742&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SE7742&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## 🎯 Kariyer Hedefim
 
