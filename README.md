@@ -1,154 +1,202 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:8B5CF6&height=130&section=header&text=Sidar%20Do%C4%9Fan&fontSize=36&fontColor=ffffff&animation=fadeIn" alt="Sidar Doğan banner" />
+
 # Sidar Doğan
 
-### 🚀 Full-Stack Developer | React Native Specialist | Cloud Enthusiast
+### 🚀 Entry-Level Software Developer | Mobile, Web, AI & Automation
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sidar-doğan-798542383)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/se7742)
-![Profile Views](https://komarev.com/ghpvc/?username=se7742&style=for-the-badge&color=blueviolet)
+Mobil ve web uygulamaları, AI destekli özellikler, veri yönetimi ve otomasyon akışları üzerine projeler geliştirerek kendimi geliştiriyorum.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Learning+by+building+real+projects;Mobile+%7C+Web+%7C+AI+%7C+Automation;Open+to+junior+developer+opportunities" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bağlantı_Kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sidar-doğan-798542383)
+[![GitHub](https://img.shields.io/badge/GitHub-SE7742-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SE7742)
+![Profile Views](https://komarev.com/ghpvc/?username=SE7742&style=for-the-badge&color=blueviolet)
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,python,firebase,mongodb,postgres,docker,aws,github,figma&theme=dark" alt="Tech icons" />
 
 </div>
 
 ---
 
-## 🎯 Hakkımda
+## 👋 Hakkımda
 
-> Tutkulu bir Full-Stack Developer'ım. Mobil uygulama geliştirme ve modern teknolojilere olan ilgimle, kullanıcı deneyimini ön planda tutan projeler üretmeye odaklanıyorum.
+Yazılım geliştirme alanında kendini sürekli geliştiren entry-level bir developer adayıyım. Mobil ve web uygulamaları, AI destekli özellikler, veri yönetimi ve otomasyon sistemleri üzerine projeler geliştiriyorum.
 
-**📍 Konum:** Turkey 🇹🇷  
-**💼 Pozisyon:** Full-Stack Developer  
-**🎓 Durum:** Aktif olarak kariyer fırsatları arıyorum  
-**🎯 Odak:** Mobile Development, Cloud Architecture, AI Integration  
-**🚀 Şu An:** React Native ile kişisel projeler geliştiriyorum ve portfolio'mu güçlendiriyorum
+Projelerimde sadece arayüz geliştirmeye değil; API entegrasyonu, offline-first yapı, görüntü işleme, n8n otomasyonları ve yapay zeka destekli özellikler gibi alanları da öğrenmeye ve uygulamaya odaklanıyorum.
 
-### 🔭 Aktif Projelerim
-## 💼 Öne Çıkan Projeler
+Şu anda portfolyomu güçlendiriyor, farklı teknolojilerle pratik yapıyor ve junior/entry-level developer rollerinde profesyonel deneyim kazanmayı hedefliyorum.
 
-### 🔐 [PC Güvenlik Sistemi](https://github.com/SE7742/PC_guvenlik_Sistemi)
-Görüntü İşleme destekli güvenlik izleme ve kontrol sistemi
+| Alan | Detay |
+|---|---|
+| Konum | Turkey |
+| Odak | Mobile Development, Web Development, AI Integration |
+| İlgi Alanları | Mobile Apps, Automation, Cloud, Computer Vision |
+| Aradığım Roller | Junior Full-Stack Developer, React Native Developer, Mobile Developer |
+
+---
+
+## 🚀 Öne Çıkan Projeler
+
+<table>
+<tr>
+<td width="50%">
+
+### 👁️ [GazeLearn](https://github.com/SE7742/GazeLearn)
+
+WebEyeTrack odaklı TypeScript katmanı. Gaze calibration, Kalman filtering, fixation detection ve AOI analytics özellikleri üzerine geliştirildi.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Analytics](https://img.shields.io/badge/Analytics-0EA5E9?style=flat-square)
+![Gaze Tracking](https://img.shields.io/badge/Gaze_Tracking-8B5CF6?style=flat-square)
+
+</td>
+<td width="50%">
 
 ### 👕 [Kombin App](https://github.com/SE7742/Kombin_app)
-AI destekli kıyafet kombinleme ve sanal deneme uygulaması
 
-### 🌱 Öğreniyorum
-- AWS Cloud Architecture & Serverless
-- Next.js 15 & Modern Web Technologies
-- React Native Advanced Patterns
-- CI/CD & DevOps Practices
+AI destekli kıyafet kombinleme ve sanal deneme fikri üzerine geliştirilen mobil uygulama projesi.
 
-### 💼 Aradığım Fırsatlar
-- Junior/Entry-level Full-Stack Developer pozisyonları
-- React Native Mobile Developer rolleri
-- Staj ve part-time çalışma imkanları
-- Remote çalışma fırsatları
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat-square)
+![Mobile UX](https://img.shields.io/badge/Mobile_UX-14B8A6?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔐 [Security System for PC](https://github.com/SE7742/Security-sistem-for-pc)
+
+Yüz tanıma ve görüntü işleme destekli bilgisayar güvenlik sistemi.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Security](https://img.shields.io/badge/Security-111827?style=flat-square)
+
+</td>
+<td width="50%">
+
+### 📝 [Offline Notes App](https://github.com/SE7742/Offline-notes-app)
+
+Offline-first çalışan, SQLite ile veri saklayan ve internet geldiğinde n8n workflow'una senkronize olan not uygulaması.
+
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-F59E0B?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Teknoloji Yığınım
+## 🧰 Teknoloji Yığınım
 
 ### 📱 Mobile & Frontend
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### ⚙️ Backend, Database & Automation
 
-### 🤖 AI/ML & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-### 🔧 Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+### 🤖 AI, Cloud & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
----
-
-## 📈 2026 Hedeflerim
-
-- 🎓 Yeni mezun olarak ilk profesyonel deneyimimi kazanmak
-- 🚀 3+ kişisel proje geliştirip portfolio'mu güçlendirmek
-- 💼 Gerçek dünya problemlerine çözüm üreten uygulamalar yapmak
-- 📱 App Store / Play Store'da en az 1 mobil uygulama yayınlamak
-- 🌱 AWS Cloud sertifikası alarak bulut teknolojilerinde uzmanlaşmak
-- 👥 Developer topluluklarına katılarak network'ümü genişletmek
-- 📝 Öğrendiklerimi blog yazıları ile paylaşmak
-- 💡 Open-source projelere katkıda bulunarak deneyim kazanmak
-
----
-
-## 🤝 İletişim
+## 📊 GitHub Özeti
 
 <div align="center">
 
-💼 Yeni projeler ve işbirlikleri için her zaman açığım!  
-🌟 Bilgi paylaşımı ve mentorluk konusunda tutkuluyum  
-🚀 Birlikte harika şeyler inşa edelim
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bağlantı_Kur-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sidar-doğan-798542383)
-[![GitHub](https://img.shields.io/badge/GitHub-Takip_Et-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/se7742)
-
-📫 **Tüm projelerimi görmek için:** [github.com/se7742](https://github.com/se7742?tab=repositories)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SE7742&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SE7742&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-<div align="center">
+## 🎯 Kariyer Hedefim
 
-### 💭 Günün Sözü
+Junior seviyede yazılım geliştirme rollerinde yer alarak gerçek ürün geliştirme süreçlerinde deneyim kazanmak istiyorum. Özellikle React Native, full-stack web geliştirme, AI entegrasyonları ve otomasyon sistemleri üzerine çalışan ekiplerde katkı sağlamayı hedefliyorum.
 
-*"The best code is written with ☕ coffee and 🎵 lo-fi music!"*
+Açık olduğum fırsatlar:
+
+- Junior / Entry-level Full-Stack Developer
+- React Native Developer
+- Mobile Developer
+- Internship / Part-time Developer
+- Remote veya hibrit çalışma fırsatları
 
 ---
 
-**Teşekkürler! Profilimi ziyaret ettiğiniz için! 🚀**
+## 🗺️ 2026 Hedeflerim
 
-⭐️ Projelerimi beğendiyseniz yıldız atmayı unutmayın!
+- Profesyonel yazılım geliştirme deneyimi kazanmak
+- React Native ve full-stack projelerimi daha ürün odaklı hale getirmek
+- En az bir mobil uygulamayı yayınlanabilir seviyeye taşımak
+- AWS ve cloud architecture tarafında kendimi geliştirmek
+- AI destekli özellikler içeren daha fazla proje geliştirmek
+- Açık kaynak projelere katkı sağlamak
 
-<sub>Son güncelleme: Aralık 2025</sub>
+---
 
-</div>
+## 🔄 Güncel Projelerim
 
 <!-- AUTO-PROJECTS -->
 
-| Proje | Aciklama | Tarih | Link |
+| Proje | Açıklama | Son Güncelleme | Link |
 |---|---|---:|---|
-| **GazeLearn** | WebEyeTrack-oriented TypeScript layer for gaze calibration, Kalman filtering, fixation detection, and AOI analytics. | 2026-07-03 | [Repo](https://github.com/SE7742/GazeLearn) |
-| **District-Based-Service-Distribution-Analysis-System** | — | 2026-06-29 | [Repo](https://github.com/SE7742/District-Based-Service-Distribution-Analysis-System) |
-| **password_security** | Yerel çalışan bir şifre yöneticisi | 2026-04-11 | [Repo](https://github.com/SE7742/password_security) |
-| **Labirent-oyunu** | Expo ile labirent oyunu hem web hemde mobil | 2026-02-07 | [Repo](https://github.com/SE7742/Labirent-oyunu) |
-| **Offline-notes-app** | Offline-first not uygulamasi. Notlar yerel SQLite veritabaninda saklanir, internet geldiginde n8n workflow'una otomatik senkronize edilir. n8n notlari isşeyerek etiket ve özet üretir. | 2026-02-06 | [Repo](https://github.com/SE7742/Offline-notes-app) |
-| **n8n_readme** | n8n otomasyonu ile GitHub profil README dosyasımı otomatik güncelleyen bir sistem. | 2026-02-06 | [Repo](https://github.com/SE7742/n8n_readme) |
-| **Kombin_app** | Kıyafetler yükleyip kombin yapabileceğimiz ve AI ile sanal denemeler yapabileceğimiz bir mobil uygulama | 2026-02-05 | [Repo](https://github.com/SE7742/Kombin_app) |
-| **Security-sistem-for-pc** | Yüz tanıma ile PC güvenlik sistemi | 2026-02-05 | [Repo](https://github.com/SE7742/Security-sistem-for-pc) |
+| Bu alan n8n tarafından otomatik güncellenecek |  |  |  |
 
 <!-- END-AUTO-PROJECTS -->
+
+---
+
+## 📬 İletişim
+
+<div align="center">
+
+Yeni projeler, iş birlikleri ve junior developer fırsatları için iletişime açığım.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bağlantı_Kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sidar-doğan-798542383)
+[![GitHub](https://img.shields.io/badge/GitHub-Projelerim-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SE7742?tab=repositories)
+
+<sub>Bu profil README'si n8n otomasyonu ile güncel proje listesine bağlanmıştır.</sub>
+
+</div>
+
+---
+
+## İletişim
+
+<div align="center">
+
+Yeni projeler, iş birlikleri ve junior developer fırsatları için iletişime açığım.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bağlantı_Kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sidar-doğan-798542383)
+[![GitHub](https://img.shields.io/badge/GitHub-Projelerim-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SE7742?tab=repositories)
+
+<sub>Bu profil README'si n8n otomasyonu ile güncel proje listesine bağlanmıştır.</sub>
+
+</div>
