@@ -35,7 +35,7 @@ Projelerimde sadece arayüz geliştirmeye değil; API entegrasyonu, offline-firs
 | Konum | Turkey |
 | Odak | Mobile Development, Web Development, AI Integration |
 | İlgi Alanları | Mobile Apps, Automation, Cloud, Computer Vision |
-| Aradığım Roller | Junior Full-Stack Developer, React Native Developer, Mobile Developer |
+
 
 ---
 
